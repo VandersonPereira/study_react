@@ -8,3 +8,6 @@ Seguem alguns links importantes:
 - Canal do Youtube de Cod3r Cursos: https://www.youtube.com/cod3rcursos
 - Todos os exercícios e projetos estão em: https://github.com/cod3rcursos/curso-react-redux
 - Apostila do curso: http://files.cod3r.com.br/apostila-react-redux.pdf (Essa apostila também está disponível na raiz do projeto, neste repositório)
+
+IMPORTANTE:
+Ao baixar ou clonar o repositório, rodar o comando 'npm i' para instalar todas as dependências.
